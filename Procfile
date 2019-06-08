@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT buildinglife_4392.wsgi:application
